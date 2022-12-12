@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "334726157761",
+    "project_id": "dl-valley-companion",
+    "storage_bucket": "dl-valley-companion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334726157761:android:4ce9bc73826b6faabfcb40",
+        "android_client_info": {
+          "package_name": "app.apexsoftware.dl_valley_companion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334726157761-v0anspuim844gq2evk58fqhsn9on8sr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALkn7fZGLupBDkd2IJx-VQ80u2kVMm-5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334726157761-v0anspuim844gq2evk58fqhsn9on8sr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334726157761-5lk6l6sa25nihd8keps349702s42m10k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.apexsoftware.dlValleyCompanion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
